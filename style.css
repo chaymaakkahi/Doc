@@ -1,0 +1,44 @@
+
+#section6 ul li{
+font-family: 'Roboto', sans-serif;	
+}
+#section5 ul li {
+	font-family: 'Roboto', sans-serif;	
+}
+#section4{
+font-family: 'Roboto', sans-serif;	
+}
+#section2
+{
+	font-family: 'Roboto', sans-serif;	
+
+}
+#section3{
+	font-family: 'Roboto', sans-serif;	
+
+}
+#section6
+{
+		font-family: 'Roboto', sans-serif;	
+
+}
+nav ul{
+	display: flex;
+}
+nav ul li {
+	list-style: none;
+	padding: 20px;
+}
+nav ul li a {
+	text-decoration: none;
+}
+nav form {
+	text-align:center;
+}
+header  {
+    background-color:#c0c0c0!important;
+}
+body{
+	    background-color:#c0c0c0!important;
+
+}
